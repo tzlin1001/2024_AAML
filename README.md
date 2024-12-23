@@ -1,6 +1,6 @@
 Accelerator Architectures for Machine Learning, Fall 2024
 ===
-Course Outline: <https://people.cs.nycu.edu.tw/~ttyeh/course/2024_Fall/IOC5009/outline.html>
+Course Outline: <https://people.cs.nycu.edu.tw/~ttyeh/course/2024_Fall/IOC5009/outline.html>  
 Labs Spec: <https://nycu-caslab.github.io/AAML2024/>
 
 All the labs have achieved a perfect score.
